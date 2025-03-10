@@ -1,0 +1,7 @@
+Pillow
+transformers
+requests
+
+# Deep Learning
+torch
+torchvision

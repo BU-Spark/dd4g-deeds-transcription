@@ -1,0 +1,36 @@
+{
+    "document_text": "Know all men by these presents That I John Miller of Springfield in the County of Hampshire & Province of the Massachusetts Bay in new England Yeoman, for consideration of the Sum of two pounds thirteen shillings lawful money paid me by Jedidiah Bliss of Springfield in sd County Gentleman the receipt whereof I do hereby acknowledge doth hereby Give Grant and Convey to the said Jedidiah Bliss his Heirs, one tract or parcel of Land lying & being in Springfield aforesaid on the East Side of Connecticut River Containing Ten acres, in length North-Southerly & Southwesterly thirty rods, in breadth North-westerly & South-easterly about twenty-seven rods butted & bounded as follows Northerly on Land of my own Easterly on land of Elisha Horton Southeasterly on land of Joseph Horton Westwardly on land of sd Jedidiah Bliss it being a Grant to my Father Obadiah Miller Decd, by ye Proprietors Reference being had to sd Proprietors Records as Registered in Book 3 page 290 may more fully appear. To Have and To Hold the Same to the said Jedidiah Bliss his Heirs and I do covenant with the said Jedidiah Bliss his Heirs and assigns that I am lawfully seized in Fee of the Premises, that they are free of all incumbrances, that I have good right to sell and convey the same to the said Jedidiah Bliss to Hold as aforesaid. And that I will warrant and Defend the same to the said Jedidiah Bliss his Heirs and assigns forever against the lawful Claims and Demands of all Persons; In Witness whereof I have hereunto set my Hand & Seal this 29th Day of March, In the 30th Year of His Majesty's Reign Anno que Domini 1757. Signed Sealed & Delivered in presence of Moses Bliss Jun, Mary Brewer. John Miller [seal] Hampshire Ss. Dec 31, 1757 Then the above named John Miller acknowledged the foregoing Instrument to be his act and Deed Before Josiah Dwight Justice Peace. Decemr 31st 1757 Recd Recorded from the Original. Edw Pynchon Regr",
+    "document_type": "Land Deed",
+    "grantors": [
+        "John Miller"
+    ],
+    "grantees": [
+        "Jedidiah Bliss"
+    ],
+    "legal_authorities": [
+        "Josiah Dwight (Justice of the Peace)",
+        "Edward Pynchon (Register)"
+    ],
+    "property_description": {
+        "acreage": "Ten acres",
+        "boundaries": [
+            "Northerly on Land of John Miller",
+            "Easterly on land of Elisha Horton",
+            "Southeasterly on land of Joseph Horton",
+            "Westwardly on land of Jedidiah Bliss"
+        ],
+        "lot_info": "A tract or parcel of Land lying & being in Springfield on the East Side of Connecticut River, in length North-Southerly & Southwesterly thirty rods, in breadth North-westerly & South-easterly about twenty-seven rods"
+    },
+    "geographical_references": {
+        "city": "Springfield",
+        "county": "Hampshire",
+        "province": "Massachusetts Bay",
+        "other": "East Side of Connecticut River"
+    },
+    "transaction_dates": {
+        "execution_date": "March 29, 1757",
+        "acknowledgment_date": "December 31, 1757",
+        "recording_date": "December 31, 1757"
+    },
+    "additional_notes": "The land was originally granted to the grantor's father, Obadiah Miller, by the Proprietors, with reference to Proprietors Records as Registered in Book 3 page 290"
+}

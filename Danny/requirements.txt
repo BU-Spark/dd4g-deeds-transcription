@@ -1,5 +1,0 @@
-Pillow
-transformers
-requests
-torch
-torchvision

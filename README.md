@@ -1,3 +1,29 @@
+# Data Days For Good Deeds Transcriptions
+
+## Introduction
+
+The Hampden County Registry of Deeds holds a vast collection of historical records dating back to the early 1600s. With approximately 100,000 documents spread across 600 books (each containing around 1,000 documents), these records provide invaluable insights into property ownership, land transactions, and historical boundaries. However, due to the handwritten cursive nature of the documents, inconsistent document delineation, and the lack of a comprehensive indexing system, accessing specific records remains a challenge.
+
+The primary objective of this project is to create a pipeline to digitize and systematically index these historical records to facilitate efficient search and retrieval. This includes:
+
+- **Extracting Key Information**: Identifying grantors, grantees, property descriptions, and geographical references (city, county, streets, NWSE directions).
+- **Standardizing Metadata**: Ensuring documents are properly categorized (e.g., deeds, easements, mortgages, liens, plan cards).
+- **Improving Searchability**: Creating an indexed system that allows for title searches, boundary dispute research, and historical property ownership tracing.
+- **Enhancing Accessibility**: Providing structured access to documents for researchers, legal professionals, and genealogy enthusiasts.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Model Training & Evaluation](#model-training--evaluation)
+- [Using the API](#using-the-api)
+- [Streamlit Feature](#streamlit-feature)
+- [How to Continue](#how-to-continue)
+
+## Installation
+
+To set up the project locally, follow these steps:
+
 To set up the project locally, follow these steps:
 
 1. **Prerequisites**:

@@ -6,3 +6,4 @@ torchvision
 anthropic
 elasticsearch
 streamlit
+matplotlib
